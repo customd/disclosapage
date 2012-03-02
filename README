@@ -8,6 +8,11 @@ Author: Robert Sinton
 Disclosapage adds disclosure controls to MojoMotor's page manipulation tree.
 
 
+Compatibility
+-------------
+disclosapage 1.1 is compatible with MojoMotor 1.1. It does not yet work with MojoMotor 1.2 (coming soon!)
+
+
 Installation
 ------------
 
